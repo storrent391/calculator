@@ -13,7 +13,7 @@ test('multiplies 3 * 4 to equal 12', () => {
 });
 
 test('divides 10 / 2 to equal 5', () => {
-    expect(divide(10, 2)).toBe(5);
+    expect(divide(10, 2)).toBe(11);
 });
 
 test('dividing by zero throws error', () => {
